@@ -60,3 +60,30 @@ A continuación se presentan las siguientes pantallas de las principales página
 En esta pantalla se muestra alguno de los registros de la base remota potenciada por Google Firebase [Google Firebase](https://console.firebase.google.com/project/react-http-proyect/database/react-http-proyect-default-rtdb/data) el cual se utiliza para autentificar los usuarios, así como registrar nuevos
 
 ![firebase](https://raw.githubusercontent.com/Gerardo-MU/JavaFullStack-ReactFundamentals/refs/heads/master/public/screenshots/sc6.png)
+
+
+## 🔧 Instalación y ejecución
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/Gerardo-MU/JavaFullStack-ReactFundamentals
+```
+
+2. Entra al directorio del proyecto:
+
+```bash
+cd shopping-cart
+```
+
+3. Instala las dependencias:
+
+```bash
+npm install
+```
+
+4. Ejecuta el servidor de desarrollo:
+
+```bash
+npm run dev
+```
