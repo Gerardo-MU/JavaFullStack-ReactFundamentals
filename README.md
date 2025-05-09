@@ -1,6 +1,6 @@
 # Proyecto: ***Panadería Online***
 
-**Diplomado en Programación Java:** JavaScript
+**Diplomado en Programación Java:** Fundamentos de React
 
 **Insignia electrónica:** clic [aquí](https://www.acreditta.com/credential/09f099c3-ad68-4af8-bbca-8348f3a40db4) 
 
