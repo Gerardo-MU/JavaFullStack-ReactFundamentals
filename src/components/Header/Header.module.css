@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .ul {
+        padding: 10px;
+        border-radius: 0;         /* ejemplo: quitar el borde redondeado en móvil */
+    }
+}

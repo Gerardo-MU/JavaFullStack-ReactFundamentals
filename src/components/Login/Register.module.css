@@ -1,0 +1,12 @@
+.registerContainer {
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Estilos extra para pantallas debajo de 768px */
+@media (max-width: 768px) {
+    .registerContainer {
+        padding: 10px;
+        border-radius: 0;         /* ejemplo: quitar el borde redondeado en móvil */
+    }
+}

@@ -1,0 +1,48 @@
+.welcome-container {
+
+  background: url("../src/assets/pan_dulce.jpg") no-repeat center center fixed;
+  background-size: cover;
+  /* Ocupa la pantalla completa */
+  min-height: 100vh;
+  /* Mantenemos el contenido en columna */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Texto en blanco para contraste */
+  text-align: center;
+  padding: 2rem;
+}
+
+.overlay-content {
+  /* Ejemplo de fondo translúcido */
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 800px;
+}
+
+/* Titular */
+.overlay-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Párrafo */
+.overlay-content p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 764px) {
+  .overlay-content {
+    padding: 1.5rem;
+  }
+
+  .overlay-content h1 {
+    font-size: 2rem;
+  }
+
+  .overlay-content p {
+    font-size: 1rem;
+  }
+}
