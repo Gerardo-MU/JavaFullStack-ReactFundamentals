@@ -7,7 +7,7 @@
 ---
 
 ## Objetivo
-Desarrollar un sitio web dinámico que utilice REACT para el diseño de componentes, utilar CSS Moldules para un sitio responsivo, implementar pruebas unitarias para pruebas de componentes y utilizar React Router para la navegación del sitio.
+Desarrollar un sitio web dinámico que utilice REACT para el diseño de componentes, utilizar CSS Moldules para un sitio responsivo, implementar pruebas unitarias para pruebas de componentes y utilizar React Router para la navegación del sitio.
 
 ## Tecnologías utilizadas
 - **React**
@@ -18,13 +18,13 @@ Desarrollar un sitio web dinámico que utilice REACT para el diseño de componen
 
 ## Descripción
 
-Este proyecto consiste en una Panadería online que permite realizar la autentificación de usuarios, así como el registro de usuarios nuevos, para ello se implementa una conexión a un servivio de nube de Google Firtebase para conectar con una base de datos que almacene cada uno de los registro.
+Este proyecto consiste en una Panadería online que permite realizar la autentificación de usuarios, así como el registro de usuarios nuevos, para ello se implementa una conexión a un servicio de nube de Google Firebase para conectar con una base de datos que almacene cada uno de los registro.
 
-Las vistas de los componentes del sitio funciona sobre React Router que permite gestinoar cada una de las rutas, así como evitar rutas inexistentes. 
+Las vistas de los componentes del sitio funciona sobre React Router que permite gestionar cada una de las rutas, así como evitar rutas inexistentes. 
 
-En la página se selección de producto, cada uno tiene como base un componente que contiene imagen, nombre, precio y botón "Agregar" el cual sera agregado al "carrito" en la parte inferior de la página el cual implemnta un Portal que se fija en la interfaz.
+En la página se selección de producto, cada uno tiene como base un componente que contiene imagen, nombre, precio y botón "Agregar" el cual sera agregado al "carrito" en la parte inferior de la página el cual implementa un Portal que se fija en la interfaz.
 
-Adicionalmente se utiliza la librería de Vitest para realizar pruebas unitarias del funcionamiento de alguno de los componetes.
+Adicionalmente se utiliza la librería de Vitest para realizar pruebas unitarias del funcionamiento de alguno de los componentes.
 
 ## Vista previa
 A continuación se presentan las siguientes pantallas de las principales páginas del sitio.
