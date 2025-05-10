@@ -73,7 +73,7 @@ git clone https://github.com/Gerardo-MU/JavaFullStack-ReactFundamentals
 2. Entra al directorio del proyecto:
 
 ```bash
-cd shopping-cart
+cd JavaFullStack-ReactFundamentals
 ```
 
 3. Instala las dependencias:
